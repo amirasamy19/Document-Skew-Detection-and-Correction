@@ -86,13 +86,6 @@ Dataset contains 600 scanned document images with:
 
 ---
 
-## Team Members
-
-- Raghad Hani
-- Khadija Mohamed
-- Aml Mohamed
-- Amira Samy
-- Hala Mahmoud
 
 ---
 
